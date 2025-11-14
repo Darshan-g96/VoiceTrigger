@@ -4,17 +4,6 @@ This is a single-file React application that utilizes the Web Speech API via the
 
 The entire application—including all React components, logic, and comprehensive styling—is contained within a single App.jsx file.
 
-Deliverables Checklist
-
-[ ] Git repo link
-
-[ ] README.md (This file)
-
-[ ] DECLARATION.md
-
-[ ] DEMO.mp4 or DEMO.webm
-
-[ ] notes.md
 
 Run Steps
 
@@ -26,10 +15,8 @@ Environment Setup
 
 This project uses modern JavaScript/React features. You will need Node.js and npm (or yarn) installed to run it locally.
 
-Clone the Repository:
+Clone the Repository
 
-git clone [YOUR_REPO_LINK]
-cd [SPEECHTOTEXT]
 
 Install Dependencies:
 
@@ -37,12 +24,12 @@ npm install
 Note: The core dependency is react-speech-recognition.
 npm install --save react-speech-recognition
 
-Note: The core dependency is react-speech-recognition.
 
 Run the Application:
+npm run dev
 Start the development server.
 
-npm run dev
+
 
 The application will typically open automatically at http://localhost:5173.
 
